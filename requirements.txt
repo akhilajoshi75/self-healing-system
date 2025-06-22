@@ -5,3 +5,7 @@ matplotlib==3.8.4
 seaborn==0.13.2
 joblib==1.4.2
 psutil==5.9.8
+tkinter
+
+## install using :
+## pip install -r requirements.txt
